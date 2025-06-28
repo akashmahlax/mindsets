@@ -62,19 +62,15 @@ export default function PrivacyPolicyPage() {
                 <tbody className="bg-white divide-y divide-gray-200">
                   <tr>
                     <td className="px-4 py-3 font-medium text-gray-700">Account Information</td>
-                    <td className="px-4 py-3 text-gray-600">5 years after last activity</td>
+                    <td className="px-4 py-3 text-gray-600">5 year after last activity</td>
                     <td className="px-4 py-3 text-gray-600">User convenience and legal requirements</td>
                   </tr>
                   <tr>
                     <td className="px-4 py-3 font-medium text-gray-700">Health Session Data</td>
-                    <td className="px-4 py-3 text-gray-600">7 years after last session</td>
+                    <td className="px-4 py-3 text-gray-600">1 year after last session</td>
                     <td className="px-4 py-3 text-gray-600">Medical record retention laws</td>
                   </tr>
-                  <tr>
-                    <td className="px-4 py-3 font-medium text-gray-700">Payment Records</td>
-                    <td className="px-4 py-3 text-gray-600">10 years</td>
-                    <td className="px-4 py-3 text-gray-600">Financial regulations</td>
-                  </tr>
+                 
                   <tr>
                     <td className="px-4 py-3 font-medium text-gray-700">Technical Logs</td>
                     <td className="px-4 py-3 text-gray-600">1 year</td>
@@ -129,7 +125,10 @@ export default function PrivacyPolicyPage() {
               <li>Request data portability</li>
               <li>Withdraw consent at any time</li>
             </ul>
-            <p className="text-gray-700 mt-2">To exercise your rights, contact us at <a href="mailto:privacy@mindsets.app" className="text-blue-600 underline">privacy@mindsets.app</a> or use the <a href="/request-delete" className="text-blue-600 underline">Request Deletion page</a>.</p>
+            <p className="text-gray-700 mt-2">To exercise your rights, contact us at <a href="mailto:akashdalla406@gmail.com" className="text-blue-600 underline">akashdalla406@gmail.com
+              
+              
+              </a> or use the <a href="/request-delete" className="text-blue-600 underline">Request Deletion page</a>.</p>
           </div>
         </section>
 
@@ -162,7 +161,7 @@ export default function PrivacyPolicyPage() {
             Contact Us
           </h2>
           <div className="bg-gray-50 rounded-lg p-5 border border-gray-200">
-            <p className="text-gray-700 mb-2">If you have questions or requests regarding your privacy or this policy, contact us at: <a href="mailto:privacy@mindsets.app" className="text-blue-600 underline">privacy@mindsets.app</a></p>
+            <p className="text-gray-700 mb-2">If you have questions or requests regarding your privacy or this policy, contact us at: <a href="mailto:akashdalla406@gmail.com" className="text-blue-600 underline">akashdalla406@gmail.com</a></p>
           </div>
         </section>
       </main>
