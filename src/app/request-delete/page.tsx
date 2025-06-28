@@ -22,7 +22,7 @@ export default function RequestDeletePage() {
           We are sorry to see you go. Please fill out the form below to request
           deletion of your MindSets account and data.
         </p>
-      </div>
+      </div>``
       {submitted ? (
         <div className="bg-green-50 border border-green-200 rounded-xl p-8 text-center shadow">
           <h2 className="text-xl font-semibold mb-2 text-green-700">
